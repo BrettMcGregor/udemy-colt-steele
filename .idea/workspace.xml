@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b47082-fdfe-44a6-9dfd-08e4117caf21" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,49 +14,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="map.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/map.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="min_max.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/min_max.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zip.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zip.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-273572998/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5729" column="6" selection-start-line="5729" selection-start-column="6" selection-end-line="5729" selection-end-column="6" />
-            </state>
-          </provider>
+      <file leaf-file-name="http_request.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/http_request.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -81,6 +41,12 @@
         <option value="$PROJECT_DIR$/any_all.py" />
         <option value="$PROJECT_DIR$/min_max.py" />
         <option value="$PROJECT_DIR$/zip.py" />
+        <option value="$PROJECT_DIR$/debugging.py" />
+        <option value="$PROJECT_DIR$/errors_debugging.py" />
+        <option value="$PROJECT_DIR$/keyword.py" />
+        <option value="$PROJECT_DIR$/modules.py" />
+        <option value="$PROJECT_DIR$/colors.py" />
+        <option value="$PROJECT_DIR$/http_request.py" />
       </list>
     </option>
   </component>
@@ -144,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zip">
+  <component name="RunManager" selected="Python.colors">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -164,7 +130,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="any_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="colors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,13 +142,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/any_all.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="debugging" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,13 +160,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debugging.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="errors_debugging" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,13 +178,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/errors_debugging.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="min_max" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="keyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +196,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/min_max.py" />
+      <option name="SCRIPT_NAME" value="C:\Projects\Python\udemy-colt-steele\modules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,19 +243,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.map" />
-      <item itemvalue="Python.filter" />
-      <item itemvalue="Python.any_all" />
-      <item itemvalue="Python.min_max" />
       <item itemvalue="Python.zip" />
+      <item itemvalue="Python.debugging" />
+      <item itemvalue="Python.errors_debugging" />
+      <item itemvalue="Python.keyword" />
+      <item itemvalue="Python.colors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.colors" />
+        <item itemvalue="Python.keyword" />
+        <item itemvalue="Python.errors_debugging" />
+        <item itemvalue="Python.debugging" />
         <item itemvalue="Python.zip" />
-        <item itemvalue="Python.min_max" />
-        <item itemvalue="Python.any_all" />
-        <item itemvalue="Python.filter" />
-        <item itemvalue="Python.map" />
       </list>
     </recent_temporary>
   </component>
@@ -308,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -316,12 +283,12 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32889965" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Run" order="8" weight="0.46875" />
+      <window_info anchor="right" id="Run" order="8" weight="0.47395834" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115885414" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115885414" />
       <window_info id="Learn" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,6 +306,14 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/map.py">
@@ -397,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/min_max.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-273572998/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -427,10 +395,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/min_max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debugging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errors_debugging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/colors.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_request.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
