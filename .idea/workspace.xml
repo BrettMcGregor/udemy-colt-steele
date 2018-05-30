@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b47082-fdfe-44a6-9dfd-08e4117caf21" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,10 +13,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="http_request.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/http_request.py">
-          <provider selected="true" editor-type-id="text-editor" />
+    <leaf>
+      <file leaf-file-name="bank_account.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bank_account.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chicken_coop.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chicken_coop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -47,12 +60,17 @@
         <option value="$PROJECT_DIR$/modules.py" />
         <option value="$PROJECT_DIR$/colors.py" />
         <option value="$PROJECT_DIR$/http_request.py" />
+        <option value="$PROJECT_DIR$/first_request.py" />
+        <option value="$PROJECT_DIR$/request_parameters.py" />
+        <option value="$PROJECT_DIR$/dad_joke.py" />
+        <option value="$PROJECT_DIR$/bank_account.py" />
+        <option value="$PROJECT_DIR$/chicken_coop.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="111" />
-    <option name="y" value="41" />
+    <option name="x" value="110" />
+    <option name="y" value="40" />
     <option name="width" value="1750" />
     <option name="height" value="1090" />
   </component>
@@ -65,23 +83,23 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="udemy-colt-steele" type="cbb8eebc:String" user="udemy-colt-steele" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="udemy-colt-steele" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy-colt-steele" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="udemy-colt-steele" type="cbb8eebc:String" user="udemy-colt-steele" />
             </path>
           </expand>
           <select />
@@ -110,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.colors">
+  <component name="RunManager" selected="Python.chicken_coop">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -130,7 +148,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="colors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bank_account" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,13 +160,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bank_account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="debugging" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chicken_coop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,13 +178,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debugging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chicken_coop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="errors_debugging" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dad_joke" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,13 +196,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/errors_debugging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dad_joke.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="keyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,13 +214,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Projects\Python\udemy-colt-steele\modules.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="zip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="request_parameters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/request_parameters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,19 +261,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.zip" />
-      <item itemvalue="Python.debugging" />
-      <item itemvalue="Python.errors_debugging" />
-      <item itemvalue="Python.keyword" />
-      <item itemvalue="Python.colors" />
+      <item itemvalue="Python.first_request" />
+      <item itemvalue="Python.request_parameters" />
+      <item itemvalue="Python.dad_joke" />
+      <item itemvalue="Python.bank_account" />
+      <item itemvalue="Python.chicken_coop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.colors" />
-        <item itemvalue="Python.keyword" />
-        <item itemvalue="Python.errors_debugging" />
-        <item itemvalue="Python.debugging" />
-        <item itemvalue="Python.zip" />
+        <item itemvalue="Python.chicken_coop" />
+        <item itemvalue="Python.bank_account" />
+        <item itemvalue="Python.dad_joke" />
+        <item itemvalue="Python.request_parameters" />
+        <item itemvalue="Python.first_request" />
       </list>
     </recent_temporary>
   </component>
@@ -281,9 +299,9 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32889965" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" visible="true" weight="0.32889965" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Run" order="8" weight="0.47395834" />
+      <window_info anchor="right" id="Run" order="8" weight="0.60546875" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="4" />
@@ -297,11 +315,11 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39903265" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -428,11 +446,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/colors.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/colors.py" />
     <entry file="file://$PROJECT_DIR$/http_request.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dad_joke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank_account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chicken_coop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
