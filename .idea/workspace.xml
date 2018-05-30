@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92b47082-fdfe-44a6-9dfd-08e4117caf21" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chicken_coop.py" beforeDir="false" afterPath="$PROJECT_DIR$/chicken_coop.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chicken_coop.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chicken_coop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chicken_coop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deck_of_cards.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deck_of_cards.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="86" column="61" selection-start-line="86" selection-start-column="61" selection-end-line="86" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -65,6 +75,7 @@
         <option value="$PROJECT_DIR$/dad_joke.py" />
         <option value="$PROJECT_DIR$/bank_account.py" />
         <option value="$PROJECT_DIR$/chicken_coop.py" />
+        <option value="$PROJECT_DIR$/deck_of_cards.py" />
       </list>
     </option>
   </component>
@@ -128,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chicken_coop">
+  <component name="RunManager" selected="Python.deck_of_cards">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -202,7 +213,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="first_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="deck_of_cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="udemy-colt-steele" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +225,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_request.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deck_of_cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,19 +272,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.first_request" />
       <item itemvalue="Python.request_parameters" />
       <item itemvalue="Python.dad_joke" />
       <item itemvalue="Python.bank_account" />
       <item itemvalue="Python.chicken_coop" />
+      <item itemvalue="Python.deck_of_cards" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deck_of_cards" />
         <item itemvalue="Python.chicken_coop" />
         <item itemvalue="Python.bank_account" />
         <item itemvalue="Python.dad_joke" />
         <item itemvalue="Python.request_parameters" />
-        <item itemvalue="Python.first_request" />
       </list>
     </recent_temporary>
   </component>
@@ -299,9 +310,9 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" visible="true" weight="0.32889965" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32889965" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Run" order="8" weight="0.60546875" />
+      <window_info anchor="right" id="Run" order="8" weight="0.35351562" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="4" />
@@ -390,13 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-273572998/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5729" column="6" selection-start-line="5729" selection-start-column="6" selection-end-line="5729" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -480,8 +484,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chicken_coop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-273572998/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="796" column="8" selection-start-line="796" selection-start-column="8" selection-end-line="796" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deck_of_cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="86" column="61" selection-start-line="86" selection-start-column="61" selection-end-line="86" selection-end-column="61" />
         </state>
       </provider>
     </entry>

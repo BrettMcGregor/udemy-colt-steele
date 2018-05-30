@@ -1,5 +1,5 @@
 class Chicken:
-    total_eggs = 0  # class variable
+    total_eggs = 0  # class attribute
 
     def __init__(self, species, name):
         self.species = species
