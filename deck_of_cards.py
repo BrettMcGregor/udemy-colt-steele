@@ -51,7 +51,7 @@ class Card:
 # to deal a list of cards from the deck and return that list of cards.
 
 
-from random import shuffle
+from random import shuffle  # this import really should be at the top of the file
 
 
 class Deck:
@@ -62,6 +62,9 @@ class Deck:
 
     def __repr__(self):
         return f"Deck of {self.count()} cards."
+
+    def __iter__(self):  # implemented to allow iteration through the instance(deck of cards)
+        return iter(self.cards)
 
     def count(self):
         return len(self.cards)
@@ -98,4 +101,6 @@ d = Deck()
 # d._deal(1)
 # print(d)
 d.shuffle()
-print(d.cards)
+
+for card in d:
+    print(card)
