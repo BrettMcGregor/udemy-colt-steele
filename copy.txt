@@ -1,0 +1,9 @@
+Google has addressed an unusual glitch in its Search and Assistant apps that made SMS text messages appear when specific search terms were entered.
+
+Entering phrases including "the1975..com" and "izela viagens" into the apps made the phone display a person's text messages.
+
+The glitch was discovered by an Android user on Reddit, who described it as "the weirdest glitch I have come by".
+
+Google told the BBC it was a "language detection bug" that was being fixed.
+
+Certain phrases were "erroneously interpreted as a request to view recent text messages".
