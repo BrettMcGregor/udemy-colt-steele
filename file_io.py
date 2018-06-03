@@ -26,8 +26,9 @@ def find_and_replace(file_name, find_word, replace_word):
     with open(file_name, mode="w") as file:
         lines = file.read()
         new_lines = lines.replace(find_word, replace_word)
-        # file.seek(0)
+        file.seek(0)
         file.write(new_lines)
+        file.truncate()
 
 
 print(find_and_replace("brett.txt", "Google", "Brett Inc"))
