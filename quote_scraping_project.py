@@ -6,11 +6,8 @@ quotes_list = []
 page = 1
 while True:
     response = requests.get("http://quotes.toscrape.com/page/{}/".format(page))
-
     soup = BeautifulSoup(response.text, "html.parser")
-
     no_quotes = soup.body.contents[1].find_all(class_="col-md-8")[1].get_text()
-
     if "No quotes found!" in no_quotes:
         break
     else:
